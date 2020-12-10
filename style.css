@@ -1,0 +1,17 @@
+body{
+    background-image: url(Images/bluesea.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center top;
+    font-family: 'Cambria', sans-serif;
+
+}
+h1{
+    color: lightblue;
+    text-align: center;
+    font-size: 40px;
+}
+#pfpic {
+    padding-top: 4%;
+}
